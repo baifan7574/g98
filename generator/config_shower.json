@@ -11,11 +11,11 @@
   "hires_scale": 1.5,
   "hires_denoising_strength": 0.5,
   "refiner": false,
-  "batch_size": 20,
+  "batch_size": 1,
   "total_images": 1,
-  "seed": 1848090068,
+  "seed": 1571316719,
   "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
-  "prompt": "photo-realistic portrait, steamy hotel bathroom, foggy mirror glow, soft rim light, serene mood, shower girl wet hair",
+  "prompt": "photo-realistic portrait, steamy hotel bathroom, foggy mirror glow, soft rim light, serene mood, shower girl reflection",
   "output_dir": "../shower",
   "category": "shower"
 }
