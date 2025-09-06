@@ -2,7 +2,7 @@
 [OK] D:\项目\g98\auto_homepage.html
 [OK] D:\项目\g98\contact.html
 [OK] D:\项目\g98\custom_homepage_template.html
-[ERROR] D:\项目\g98\googleaf4d2d986493bb7e.html: 'NoneType' object has no attribute 'append'
+[OK] D:\项目\g98\googleaf4d2d986493bb7e.html
 [OK] D:\项目\g98\index.html
 [OK] D:\项目\g98\index_template.html
 [OK] D:\项目\g98\link_list.html
@@ -31,6 +31,7 @@
 [OK] D:\项目\g98\bedroom\20250817_090154_01.html
 [OK] D:\项目\g98\bedroom\20250817_235557_01.html
 [OK] D:\项目\g98\bedroom\20250906_084502_01.html
+[OK] D:\项目\g98\bedroom\20250906_211459_01.html
 [OK] D:\项目\g98\bedroom\page1.html
 [OK] D:\项目\g98\bedroom\page2.html
 [OK] D:\项目\g98\dark\20250816_180227_01.html
@@ -57,6 +58,7 @@
 [OK] D:\项目\g98\dark\20250817_090204_01.html
 [OK] D:\项目\g98\dark\20250817_235602_01.html
 [OK] D:\项目\g98\dark\20250906_084516_01.html
+[OK] D:\项目\g98\dark\20250906_211504_01.html
 [OK] D:\项目\g98\dark\page1.html
 [OK] D:\项目\g98\dark\page2.html
 [OK] D:\项目\g98\fitness\20250816_180233_01.html
@@ -83,6 +85,7 @@
 [OK] D:\项目\g98\fitness\20250817_090216_01.html
 [OK] D:\项目\g98\fitness\20250817_235608_01.html
 [OK] D:\项目\g98\fitness\20250906_084522_01.html
+[OK] D:\项目\g98\fitness\20250906_211510_01.html
 [OK] D:\项目\g98\fitness\page1.html
 [OK] D:\项目\g98\fitness\page2.html
 [OK] D:\项目\g98\luxury\20250816_180239_01.html
@@ -109,6 +112,7 @@
 [OK] D:\项目\g98\luxury\20250817_090227_01.html
 [OK] D:\项目\g98\luxury\20250817_235613_01.html
 [OK] D:\项目\g98\luxury\20250906_084528_01.html
+[OK] D:\项目\g98\luxury\20250906_211516_01.html
 [OK] D:\项目\g98\luxury\page1.html
 [OK] D:\项目\g98\luxury\page2.html
 [OK] D:\项目\g98\mirror\20250816_180245_01.html
@@ -120,11 +124,13 @@
 [OK] D:\项目\g98\mirror\20250817_090233_01.html
 [OK] D:\项目\g98\mirror\20250817_235618_01.html
 [OK] D:\项目\g98\mirror\20250906_084533_01.html
+[OK] D:\项目\g98\mirror\20250906_211521_01.html
 [OK] D:\项目\g98\mirror\page1.html
 [OK] D:\项目\g98\office\20250816_180251_01.html
 [OK] D:\项目\g98\office\20250817_090239_01.html
 [OK] D:\项目\g98\office\20250817_235624_01.html
 [OK] D:\项目\g98\office\20250906_084539_01.html
+[OK] D:\项目\g98\office\20250906_211526_01.html
 [OK] D:\项目\g98\office\page1.html
 [OK] D:\项目\g98\pages\dark.html
 [OK] D:\项目\g98\pages\office.html
@@ -143,20 +149,24 @@
 [OK] D:\项目\g98\redroom\20250817_090245_01.html
 [OK] D:\项目\g98\redroom\20250817_235629_01.html
 [OK] D:\项目\g98\redroom\20250906_084545_01.html
+[OK] D:\项目\g98\redroom\20250906_211532_01.html
 [OK] D:\项目\g98\redroom\page1.html
 [OK] D:\项目\g98\shower\20250816_180303_01.html
 [OK] D:\项目\g98\shower\20250817_090251_01.html
 [OK] D:\项目\g98\shower\20250817_235634_01.html
 [OK] D:\项目\g98\shower\20250906_084550_01.html
+[OK] D:\项目\g98\shower\20250906_211538_01.html
 [OK] D:\项目\g98\shower\page1.html
 [OK] D:\项目\g98\soft\20250816_180309_01.html
 [OK] D:\项目\g98\soft\20250817_090257_01.html
 [OK] D:\项目\g98\soft\20250817_235640_01.html
 [OK] D:\项目\g98\soft\20250906_084556_01.html
+[OK] D:\项目\g98\soft\20250906_211543_01.html
 [OK] D:\项目\g98\soft\page1.html
 [OK] D:\项目\g98\uniform\20250816_180314_01.html
 [OK] D:\项目\g98\uniform\20250817_090303_01.html
 [OK] D:\项目\g98\uniform\20250817_235645_01.html
 [OK] D:\项目\g98\uniform\20250906_084601_01.html
+[OK] D:\项目\g98\uniform\20250906_211548_01.html
 [OK] D:\项目\g98\uniform\page1.html
 [PING] 提交 sitemap 到 Google: https://www.google.com/ping?sitemap=https://g98.nbfive.com/sitemap.xml
