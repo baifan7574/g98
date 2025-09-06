@@ -14,3 +14,5 @@ pages\shower.html
 pages\soft.html
 pages\uniform.html
 pages\single\index.html
+index.html
+link_list.html
