@@ -49,3 +49,11 @@ tags\moody-tones.html
 tags\morning-light.html
 tags\natural-look.html
 tags\soft-portraits.html
+index.html
+link_list.html
+tags\cozy-bedroom.html
+tags\cozy-bedroom_2.html
+tags\moody-tones.html
+tags\morning-light.html
+tags\natural-look.html
+tags\soft-portraits.html
